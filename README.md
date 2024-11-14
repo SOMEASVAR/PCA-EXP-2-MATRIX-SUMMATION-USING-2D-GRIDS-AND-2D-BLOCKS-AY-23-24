@@ -1,9 +1,9 @@
-# PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
+# PCA:EXP-2 Matrix Summation using 2D Grids and 2D Blocks AY-23-24
 
 <h3>Name : SOMEASVAR R</h3>
 <h3>Register No : 212221230103</h3>
 <h3>Ex No : 02</h3>
-<h3>Date : 13.09.2024</h3>
+<h3>Date : </h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
 
